@@ -1,0 +1,6 @@
+{
+  "schools":[
+    {"school":"Mediacollege","courses":"GD","category":"MBO"},
+    {"school":"Horizoncollege","courses":"VZ","category":"MBO"}
+  ]
+}
